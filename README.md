@@ -1,2 +1,3 @@
-# min-heap-priority-queue
-Binary Min-Heap and Priority Queue data structure with O(log n) operations.
+# Min Heap Priority Queue
+
+Priority queue implementation based on binary min-heap.
